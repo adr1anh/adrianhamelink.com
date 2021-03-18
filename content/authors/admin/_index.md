@@ -6,7 +6,7 @@ title: Adrian Hamelink
 superuser: true
 
 # Role/position/tagline
-role: Masters in Computer Science
+role: MSc in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,8 @@ organizations:
   url: https://www.epfl.ch/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on cryptography and .
+bio: Adrian Hamelink is a master's student in computer science at EPFL. His research interests include threshold cryptography, multi-party computation and zero-knowledge proof systems.
+
 
 # Interests to show in About widget
 interests:
@@ -25,9 +26,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: BSc in Computer Science
+  - course: MSc in Computer Science
     institution: École polytechnique fédérale de Lausanne (EPFL)
-    year: 2021
+    year: current
   - course: BSc in Mathematics
     institution: École polytechnique fédérale de Lausanne (EPFL)
     year: 2019
@@ -43,9 +44,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/adr1anh
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.com/citations?user=h0gyYzAAAAAJ&hl=en
+# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#   icon_pack: fas
+#   link: https://scholar.google.com/citations?user=h0gyYzAAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/adr1anh
@@ -67,7 +68,7 @@ social:
 highlight_name: false
 ---
 
-Adrian Hamelink is a master's student in Computer Science at EPFL. His research interests include threshold cryptography, multi-party computation and zero-knowledge proof systems.
+{{< param description >}}
 Alongside his studies, he is currently working part-time as research intern for [Taurus](https://www.taurushq.com/).
 
 

@@ -3,6 +3,11 @@
 # Documentation: https://wowchemy.com/docs/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
+
+email: contact@adrianhamelink.com
+twitter: adr1anh
+description: Adrian Hamelink is a master's student in computer science at EPFL. His research interests include threshold cryptography, multi-party computation and zero-knowledge proof systems.
+
 # Appearance
 
 theme: minimal
@@ -15,12 +20,9 @@ font_size: L
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: 'Adrian Hamelink is a masters student in computer science at EPFL. His research interests include threshold cryptography, multi-party computation and zero-knowledge proof systems.'
-twitter: 'adr1anh'
 
 # Contact (edit or remove options as required)
 
-email: contact@adrianhamelink.com
 # phone: 888 888 88 88
 # address:
 #   street: 450 Serra Mall

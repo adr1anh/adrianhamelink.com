@@ -4,8 +4,10 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Adrian Hamelink # Website name
-baseurl: 'adrianhamelink.com' # Website URL
+baseurl: 'https://adrianhamelink.com' # Website URL
+description: Tesla's Awesome Hugo Site
 copyright: '© {year} Adrian Hamelink' # Footer text, e.g. '© {year} Me'
+
 
 ############################
 ## LANGUAGE
