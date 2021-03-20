@@ -7,7 +7,7 @@ bio: Adrian Hamelink is a master's student in computer science at EPFL. His
 interests:
   - Threshold cryptography
   - Multi-party computation
-  - Zero-knowledge
+  - Zero-knowledge proofs
 social:
   - icon: envelope
     icon_pack: fas
@@ -41,10 +41,17 @@ superuser: true
 highlight_name: false
 ---
 
-{{< param description >}}
-Alongside his studies, he is currently working part-time as research intern for [Taurus](https://www.taurushq.com/).
+
+Hi, I'm Adrian!
+
+I'm currently finishing my Master's degree in computer science at EPFL, with a strong focus on cryptography.
 
 
-<!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
+Alongside my studies, I've been working part-time for [Taurus](https://www.taurushq.com/) as a reasearch intern. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+<!-- Adrian Hamelink is a master's student in computer science at EPFL. His research interests include threshold cryptography, multi-party computation and zero-knowledge proof systems.
+Alongside his studies, he is currently working part-time as research intern for [Taurus](https://www.taurushq.com/). -->
+
+
