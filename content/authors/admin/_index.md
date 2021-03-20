@@ -46,8 +46,8 @@ Hi, I'm Adrian!
 
 I'm currently finishing my Master's degree in computer science at EPFL, with a strong focus on cryptography.
 
-
-Alongside my studies, I've been working part-time for [Taurus](https://www.taurushq.com/) as a reasearch intern. 
+Alongside my studies, I'm working part-time for [Taurus](https://www.taurushq.com/) as a reasearch intern, under the supervision of Jean-Philippe Aumasson.
+I'm currently researching new ways of integrating modern cryptographic tools in the context of cryptocurrency custody.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
