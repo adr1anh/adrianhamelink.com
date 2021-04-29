@@ -10,17 +10,23 @@
       display: none;
     }
     tbody {
+      td {
+        color: black;
+        border-color: transparent;
+      }
       td,
       th {
+        border-color: transparent;
         font-size: 0.9vw;
         text-align: center;
-        padding: 2pt;
+        padding: 2.5pt;
         // font-size: 4pt;
       }
     }
     caption {
       text-align: center;
       padding: 0;
+      color: inherit;
     }
   }
   max-width: 90%;
