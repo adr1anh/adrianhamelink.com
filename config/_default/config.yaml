@@ -4,10 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Adrian Hamelink # Website name
-baseurl: 'https://adrianhamelink.com' # Website URL
-description: Tesla's Awesome Hugo Site
-copyright: '© {year} Adrian Hamelink' # Footer text, e.g. '© {year} Me'
-
+baseurl: "https://adrianhamelink.com" # Website URL
+description: Adrian's Awesome Hugo Site
+copyright: "© {year} Adrian Hamelink" # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
@@ -39,10 +38,10 @@ enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
-  event: '/talk/:slug/'
-  tags: '/tag/:slug/'
-  categories: '/category/:slug/'
-  publication_types: '/publication-type/:slug/'
+  event: "/talk/:slug/"
+  tags: "/tag/:slug/"
+  categories: "/category/:slug/"
+  publication_types: "/publication-type/:slug/"
 disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]

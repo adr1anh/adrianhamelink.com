@@ -3,7 +3,6 @@
 # Documentation: https://wowchemy.com/docs/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-
 email: contact@adrianhamelink.com
 twitter: adr1anh
 description: Adrian Hamelink is a master's student in computer science at EPFL. His research interests include threshold cryptography, multi-party computation and zero-knowledge proof systems.
@@ -12,14 +11,14 @@ description: Adrian Hamelink is a master's student in computer science at EPFL. 
 
 theme: minimal
 day_night: true
-font: ''
+font: ""
 font_size: L
 
 # SEO
 
 site_type: Person
-local_business_type: ''
-org_name: ''
+local_business_type: ""
+org_name: ""
 
 # Contact (edit or remove options as required)
 
@@ -43,7 +42,7 @@ contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/adr1anh'
+    link: "https://twitter.com/adr1anh"
   # - icon: skype
   #   icon_pack: fab
   #   name: Skype Me
@@ -70,21 +69,23 @@ main_menu:
 
 # Localization
 
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
+date_format: "Jan 2, 2006"
+time_format: "3:04 PM"
 address_format: en-us
 
 # Site features
 
 highlight: true
 highlight_languages:
-  - r
-math: false
+  - python
+  - javascript
+  - js
+math: true
 diagram: false
 privacy_pack: false
 edit_page:
-  repo_url: ''
-  content_dir: ''
+  repo_url: ""
+  content_dir: ""
   repo_branch: main
   editable:
     page: false
@@ -106,9 +107,10 @@ copyright_license:
   allow_derivatives: false
   share_alike: true
   allow_commercial: false
-  notice: 'This work is licensed under {license}'
+  notice: "This work is licensed under {license}"
 abstract_length: 135
 plugins_js: []
+plugins_css: ["custom"]
 avatar:
   gravatar: false
   shape: circle
@@ -123,7 +125,7 @@ breadcrumb:
   page_types:
     book: true
 comments:
-  provider: ''
+  provider: ""
   commentable:
     post: true
     book: true
@@ -131,27 +133,27 @@ comments:
     publication: true
     event: true
   disqus:
-    shortname: ''
+    shortname: ""
     show_count: true
   commento:
-    url: ''
+    url: ""
 search:
   provider: wowchemy
   algolia:
-    app_id: ''
-    api_key: ''
-    index_name: ''
+    app_id: ""
+    api_key: ""
+    index_name: ""
     show_logo: false
 map:
-  provider: ''
-  api_key: ''
+  provider: ""
+  api_key: ""
   zoom: 15
 marketing:
-  google_analytics: ''
-  google_tag_manager: ''
-  google_site_verification: ''
-  baidu_site_verification: ''
-  baidu_tongji: ''
+  google_analytics: ""
+  google_tag_manager: ""
+  google_site_verification: ""
+  baidu_site_verification: ""
+  baidu_tongji: ""
 cms:
   branch: master
   local_backend: false
