@@ -3636,4 +3636,4 @@ Overall it was a fun to get a better understanding of Cairo, and I'll be looking
 It felt like there's a lot of potential in the language, but it definitely takes some getting used to.
 Hopefully STARKWARE will do another round of the Cairo Games soon!
 
-<!-- **P.S**: We're looking for awesome people to work with us at [Taurus](https://www.linkedin.com/company/taurus-group-sa/jobs/) -->
+**P.S**: Thanks to [Taurus](https://www.taurushq.com/en) for supporting this work!
