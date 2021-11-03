@@ -40,11 +40,10 @@ experience:
   - title: Research Intern
     company: Taurus
     company_url: "https://taurushq.com/"
-    location: Lausanne, Switzerland
+    location: "Lausanne, Switzerland"
     date_start: "2020-09-01"
     date_end: "2021-09-01"
-    description: Alongside my studies, I have been researching various aspects of threshold signature schemes in the context of cryptocurrency custody, under the supervision of Jean-Philippe Aumasson. In particular, we co-wrote a survey with Omer Schlomovits (ZenGo) about different dishonest majority threshold ECDSA schemes.
-    In addition, I developed open-source implementations for the FROST and CGGMP21 protocols in Go, and participated in several audits of threshold signature libraries.
+    description: Alongside my studies, I have been researching various aspects of threshold signature schemes in the context of cryptocurrency custody, under the supervision of Jean-Philippe Aumasson. In particular, we co-wrote a survey with Omer Schlomovits (ZenGo) about different dishonest majority threshold ECDSA schemes. In addition, I developed open-source implementations for the FROST and CGGMP21 protocols in Go, and participated in several audits of threshold signature libraries.
     # description: |2-
     #     Responsibilities include:
 
