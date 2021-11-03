@@ -27,8 +27,8 @@ social:
 organizations:
   - name: École polytechnique fédérale de Lausanne (EPFL)
     url: https://www.epfl.ch/
-  - name: Taurus SA
-    url: https://taurushq.com/
+  - name: Aztec Network
+    url: https://aztec.network/
 education:
   courses:
     - course: MSc in Computer Science
